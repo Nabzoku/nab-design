@@ -117,7 +117,7 @@ body {
 }
 .feature:hover > h3 {
   text-decoration: underline solid 0.2rem black;
-  text-underline-offset: 0.5em;
+  text-underline-offset: 0.3em;
 }
 .feature img {
   height: 100px;
